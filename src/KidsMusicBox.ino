@@ -1,5 +1,5 @@
 /* KidsMusicBox - Music Box for kids
- * Copyright (C) 2016 Michael Melchior <MelchiorMichael@web.de>
+ * Copyright (C) 2016 Michael Melchior <Michael.MelchiorGM@gmail.com>
  *
  * This program is free software: You can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
